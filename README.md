@@ -7,3 +7,14 @@ Different particle types remain different responses in the detector systems or s
 
 
 ![](images/img1.png)
+
+# Broadly The Detector has these components :-
+
+## Tracking devices
+Tracking devices reveal the paths of electrically charged particles as they pass through and interact with suitable substances
+
+## Calorimeters
+A calorimeter measures the energy a particle loses as it passes through. It is usually designed to stop or absorb most of the particles coming from a collision, forcing them to deposit all of their energy within the detector.
+
+## Particle-identification detectors
+Once a particle has passed through the tracking devices and the calorimeters, physicists have two further methods of narrowing down its identity. Both methods work by detecting radiation emitted by charged particles, Cherenkov radiation and Transition radiation
