@@ -6,3 +6,4 @@ Task is to train a classifier to identify type of a particle. There are six part
 Different particle types remain different responses in the detector systems or subdetectors. Thre are five systems: tracking system, ring imaging Cherenkov detector (RICH), electromagnetic and hadron calorimeters, and muon system.
 
 
+![](images/img1.png)
