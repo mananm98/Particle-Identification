@@ -3,7 +3,7 @@ physicists identify subatomic particles from the traces they leave in detectors
 
 Accelerators at CERN boost particles to high energies before they are made to collide inside detectors. The detectors gather clues about the particles – including their speed, mass and charge – from which physicists can work out a particle's identity.
 
-## Broadly The Detector has these components :-
+## Broadly a Detector has these components :-
 
 ### Tracking devices
 Tracking devices reveal the paths of electrically charged particles as they pass through and interact with suitable substances
